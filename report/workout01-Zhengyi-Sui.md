@@ -6,7 +6,7 @@ Zhengyi Sui
 Golden State Warriors: Dynasty Team Rising
 ==========================================
 
-**Golden State Warriors** finished a perfect regular season in 2017, and re-won their championship after a heartbroken final failure in 2016. In this season, they continued a series of amazing shows and kept creating records. They won 67 games in the regulat season and played an overwhelming off season with 16-1, successfully and easily brought back the O'Brien Cup to bay area. The most shining stars of the team- the Death Lineup- Andre Iguodala, Klay Thompson, Kevin Durant, Draymond Green and Stephen Curry played crucial roles in the season. Do they deserve their so-called Death Lineup? How did they perform in the 16-17 season? The report review the shooting statistics they left after the glory.
+**Golden State Warriors** finished a perfect regular season in 2017, and re-won their championship after a heartbroken final failure in 2016. In this season, they continued a series of amazing shows and kept creating records. They won 67 games in the regular season and played an overwhelming off season with 16-1, successfully and easily brought back the O'Brien Cup to bay area. The most shining stars of the team- the Death Lineup- Andre Iguodala, Klay Thompson, Kevin Durant, Draymond Green and Stephen Curry played crucial roles in the season. Do they deserve their so-called Death Lineup? How did they perform in the 16-17 season? The report review the shooting statistics they left after the glory.
 
 ### Phenomenal Season
 
@@ -18,14 +18,14 @@ The data includes Andre Iguodala, Klay Thompson, Kevin Durant, Draymond Green an
 
 ### Shooting Hotspot
 
-Here is the shooting hotspot of the Death Lineup. The Splash Brothers made all points outside the three point line green, in other word, they had no blind angle outside the three point line. Another famous star, the FMVP of the season, Kevin Durant performed ultimate shooting in all parts of the court, scoring from foul lane to three pointer line. As the most important defensive cores and organizers, Draymond Green and Andre Iguodala can also provide offensive power. The hotplot could intuitively present the spectacular offensice efficiency of the team. Obviously, their offensive power was tremendous and nearly covered all the court, which also lays a solid foundation of their ultimate overall efficiency.
+Here is the shooting hotspot of the Death Lineup. The Splash Brothers(Stephen Curry and Klay Thompson) made all points outside the three point line green, in other word, they had no blind angle outside the three point line. Stephen Curry, made the most three points at the head of the key, and his shooting range could be far from the back stop. It's no wondering he is one of the best three pointers in NBA history. And Klay Thopmpson, as one of the best 3-Defense player in the league, made shoots no matter from high post to downtown. Another famous star, the FMVP of the season, Kevin Durant performed ultimate shooting in all parts of the court, scoring from foul lane to three pointer line, proving his fame as a superstar of the league. As the most important defensive cores and organizers, Draymond Green and Andre Iguodala can also provide offensive power. The hotplot could intuitively present the spectacular offensice efficiency of the team. Obviously, their offensive power was tremendous and nearly covered all the front court, from three-second area to downtown, which also lays a solid foundation of their ultimate overall efficiency.
 
 <img src="../images/gsw-shot-chart.png" width="80%" style="display: block; margin: auto;" />
 
 ### Shooting Percent
 
-Data tells us quantitatively how amazing the Death Lineup was in shooting. Here're their effective percent of 2 pointers, 3 pointers and overall shooting.
-- It's amazing that all five players keep 2 pointer shooting percent above 49%, especially Kevin Durant keeps it above 60% while making the most 390 shootings. Apart from that, the other two scorers Splash Brothers kept 54.0% and 51.4% 2 pointer shooting percent, which is also striking.
+Data tells us quantitatively how amazing the Death Lineup was in shooting. Here're their effective percent of 2 points, 3 points and overall shooting.
+- It's amazing that all five players keep 2 pointer shooting percent above 49%, especially Kevin Durant kept it above 60% while making the most 390 shootings. Apart from that, the other two scorers Stephen Curry and Klay Thopmson also kept 54.0% and 51.4% 2 pointer shooting percent respectively, which is also striking.
 
     ##             name total made perc_made
     ## 1 Andre Iguodala   210  134 0.6380952
@@ -34,7 +34,7 @@ Data tells us quantitatively how amazing the Death Lineup was in shooting. Here'
     ## 4  Klay Thompson   640  329 0.5140625
     ## 5 Draymond Green   346  171 0.4942197
 
--   Outside the three point line, Splash Brothers prove their worth of their name. Klay Thompson had a 43.4% shooting percent and Stephen Curry 40.8%. And it's worth mentioning that Splash Brothers scored the most three pointers in the league in the seaon, respectively 280(Stephen Curry) and 246(Klay Thompson)(in regular season). And the FMVP Kevin Durant also had a three pointer shooting percent at 38.6%, scoring 105 three pointers, always playing a terminator role in rush hour.
+-   Outside the three point line, Splash Brothers prove their worth of their fame. Klay Thompson had a 43.4% shooting percent and Stephen Curry at 40.8%. And it's worth mentioning that Splash Brothers scored the most three pointers in the league in the seaon, respectively 280(Stephen Curry) and 246(Klay Thompson) in regular season. And the FMVP Kevin Durant also had a three points shooting percent at 38.6%, scoring 105 three pointers, always playing a stable terminator role in rush hour.
 
 <!-- -->
 
